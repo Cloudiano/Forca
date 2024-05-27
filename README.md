@@ -25,3 +25,4 @@ Este projeto é licenciado sob a licença MIT - consulte o arquivo LICENSE para 
 
 Divirta-se jogando e boa sorte na forca!
 
+![image](https://github.com/Polusv7/Forca/assets/142807645/5cfe68f9-0b51-4ed8-9596-bcea688b802d)
