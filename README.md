@@ -1,4 +1,4 @@
-# Jogo da Forca (Polusv7)
+# Jogo da Forca (Cloudiano)
 Bem-vindo ao Jogo da Forca. Este é um jogo simples de forca implementado em JavaScript e HTML.
 
 ###
